@@ -5,6 +5,7 @@ Simple table-management service that allows order creation and submitting based 
 - PHP (OOP)
 - MVC Architecture
 - MySQL
+- Eloquent ORM 
 - Twig (Template Engine)
 - Bootstrap
 
