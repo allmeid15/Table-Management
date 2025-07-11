@@ -1,0 +1,1007 @@
+Submit hit
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [name] => Limunade
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 3
+                    [name] => Sacher
+                    [price] => 2
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 5
+                    [name] => Limunade
+                    [price] => 1
+                    [quantity] => 2
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 3
+                    [name] => Sacher
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 5
+                    [name] => Limunade
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 5
+                    [name] => Limunade
+                    [price] => 1
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 4
+                    [name] => Indianke
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 1
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 3
+                    [name] => Sacher
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 3
+                    [name] => Sacher
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 3
+                    [name] => Sacher
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 4
+                    [name] => Indianke
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 5
+                    [name] => Limunade
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 5
+                    [name] => Limunade
+                    [price] => 1
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 3
+                    [name] => Sacher
+                    [price] => 2
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 4
+                    [name] => Indianke
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 3
+                    [name] => Sacher
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 5
+                    [name] => Limunade
+                    [price] => 1
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 4
+                    [name] => Indianke
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 4
+                    [name] => Indianke
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 3
+                    [name] => Sacher
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 4
+                    [name] => Indianke
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 3
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 2
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 3
+                    [name] => Sacher
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 4
+                    [name] => Indianke
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 1
+                    [name] => Pizza Salami
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 4
+                    [name] => Indianke
+                    [price] => 2
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 2
+                    [name] => Pleskavice
+                    [price] => 4
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)
+Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 5
+                    [name] => Limunade
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 6
+                    [name] => Boronice
+                    [price] => 1
+                    [quantity] => 1
+                )
+
+        )
+
+    [order_id] => 3
+    [table_id] => 4
+)

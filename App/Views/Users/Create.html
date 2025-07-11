@@ -1,0 +1,61 @@
+{% extends 'layout/appLayout.html' %}
+
+{% block content %}
+
+<main class="flex-grow-1">
+    <div style="width: 80%; margin: 0 auto;" class="container-fluid py-4">
+        <div class=" row justify-content-center">
+                <div class="col-md-6">
+                    <div class="card shadow-lg border-0 rounded-lg mb-3">
+                        <div class="card-header">
+                            <h3 class="text-center font-weight-light ">Add Product</h3>
+                        </div>
+
+                    <div class="card-body">
+                        <form method="post" action="/users/store">
+                            <div class="form-group">
+                                <label class="small mb-1">First name :</label>
+                                <input class="form-control py-4" name="first_name" required type="text" placeholder="Enter first name"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">Last name :</label>
+                                <input class="form-control py-4" name="last_name" required type="text" placeholder="Enter last name"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">Role :</label>
+                                <input class="form-control py-4" name="role_id" type="number" placeholder="Enter role"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">City :</label>
+                                <input class="form-control py-4" name="city" type="text" placeholder="Enter city"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">Address :</label>
+                                <input class="form-control py-4" name="address" type="text" placeholder="Enter address"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">Phone :</label>
+                                <input class="form-control py-4" name="phone" type="text" placeholder="Enter phone"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">Password :</label>
+                                <input class="form-control py-4" name="password" type="password" placeholder="Enter password"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">Username :</label>
+                                <input class="form-control py-4" name="username" type="text" placeholder="Enter username"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">Code :</label>
+                                <input class="form-control py-4" name="code" type="text" placeholder="Enter 5 digit code"/>
+                            </div>
+
+                            <input class="btn btn-primary" value="Save" type="submit" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+{% endblock %}

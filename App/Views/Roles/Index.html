@@ -1,0 +1,36 @@
+{% extends 'layout/appLayout.html' %}
+
+{% block content %}
+
+<main class="flex-grow-1">
+    <div style="width: 80%; margin: 0 auto;" class="container-fluid py-4">
+        <h1 class="mb-4">Roles</h1>
+        <ol class="breadcrumb mb-4">
+            <li class="breadcrumb-item active">Users</li>
+        </ol>
+
+        <div class="row">
+            <div class="col-12">
+                <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                        <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Edit</th>
+                            <th>Delete</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for role in roles %}
+                        <tr>
+                            <td>{{ role.name }}</td>
+                        </tr>
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+{% endblock %}

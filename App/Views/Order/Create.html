@@ -1,0 +1,35 @@
+{% extends 'layout/appLayout.html' %}
+
+{% block content %}
+
+<main>
+    <div style="width: 80%; margin: 0 auto;" class="container-fluid">
+            <div style="align-items: center;" class="col-md-6"><!--Ndreqe NMES FAQES-->
+                <div class="card shadow-lg border-0 rounded-lg mb-3">
+                    <div class="card-header">
+                        <h3 class="text-center font-weight-light ">Add Order</h3>
+                    </div>
+
+                    <div class="card-body">
+                        <form method="post" action="/orders/store">
+                            <div class="form-group">
+                                <label class="small mb-1">User :</label>
+                                <input class="form-control py-4" name="user_id" required type="number" placeholder="Enter user_id"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">Table :</label>
+                                <input class="form-control py-4" name="table_id" required type="number" placeholder="Enter table_id"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="small mb-1">Status :</label>
+                                <input class="form-control py-4" name="status" type="text" placeholder="Enter status"/>
+                            </div>
+                            <input class="btn btn-primary" value="Save" type="submit" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+{% endblock %}
